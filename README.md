@@ -30,21 +30,21 @@
 
 # 预览图片
 
-!(img)[https://github.com/cyberse-sprite/tsukumo-house/blob/main/img/1.PNG]
+![img](https://github.com/cyberse-sprite/tsukumo-house/blob/main/img/1.PNG)
 
-!(img)[https://github.com/cyberse-sprite/tsukumo-house/blob/main/img/2.PNG]
+![img](https://github.com/cyberse-sprite/tsukumo-house/blob/main/img/2.PNG)
 
-!(img)[https://github.com/cyberse-sprite/tsukumo-house/blob/main/img/3.PNG]
+![img](https://github.com/cyberse-sprite/tsukumo-house/blob/main/img/3.PNG)
 
-!(img)[https://github.com/cyberse-sprite/tsukumo-house/blob/main/img/4.PNG]
+![img](https://github.com/cyberse-sprite/tsukumo-house/blob/main/img/4.PNG)
 
-!(img)[https://github.com/cyberse-sprite/tsukumo-house/blob/main/img/5.PNG]
+![img](https://github.com/cyberse-sprite/tsukumo-house/blob/main/img/5.PNG)
 
-!(img)[https://github.com/cyberse-sprite/tsukumo-house/blob/main/img/6.PNG]
+![img](https://github.com/cyberse-sprite/tsukumo-house/blob/main/img/6.PNG)
 
-!(img)[https://github.com/cyberse-sprite/tsukumo-house/blob/main/img/7.PNG]
+![img](https://github.com/cyberse-sprite/tsukumo-house/blob/main/img/7.PNG)
 
-!(img)[https://github.com/cyberse-sprite/tsukumo-house/blob/main/img/8.PNG]
+![img](https://github.com/cyberse-sprite/tsukumo-house/blob/main/img/8.PNG)
 
 # 利用规则
 
