@@ -22,11 +22,29 @@
 
 # 工程下载
 
-直接使用github的zip下载功能，位于页面的右上角。
+本仓库带有预览图片和参考图片。参考图片来源于动画，并由原来微博上的zexal-bot整理。
+
+只下载模型文件的话，点击c1.blender，再下载。
+
+也可以直接使用github的zip下载功能，位于页面的右上角，将会下在仓库内完整内容。
 
 # 预览图片
 
+!(img)[https://github.com/cyberse-sprite/tsukumo-house/blob/main/img/1.PNG]
 
+!(img)[https://github.com/cyberse-sprite/tsukumo-house/blob/main/img/2.PNG]
+
+!(img)[https://github.com/cyberse-sprite/tsukumo-house/blob/main/img/3.PNG]
+
+!(img)[https://github.com/cyberse-sprite/tsukumo-house/blob/main/img/4.PNG]
+
+!(img)[https://github.com/cyberse-sprite/tsukumo-house/blob/main/img/5.PNG]
+
+!(img)[https://github.com/cyberse-sprite/tsukumo-house/blob/main/img/6.PNG]
+
+!(img)[https://github.com/cyberse-sprite/tsukumo-house/blob/main/img/7.PNG]
+
+!(img)[https://github.com/cyberse-sprite/tsukumo-house/blob/main/img/8.PNG]
 
 # 利用规则
 
